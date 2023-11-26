@@ -6,4 +6,7 @@
 
  2. Es6 model set up 
 
- 3.   
+ 3.  Logger set 
+
+    - npm  i morgan --save
+ 4.    
